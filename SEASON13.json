@@ -1,0 +1,626 @@
+{
+    "TestSkin": {
+        "First Mythic Shop Appearance": "0.1",
+        "2nd Appearance": "0.2",
+        "3rd Appearance": "0.3",
+        "4th Appearance": "0.4",
+        "5th Appearanace": "0.5",
+        "Total Appearances": 5
+    },
+    "Ashen Knight Pyke": {
+        "First Mythic Shop Appearance": "12.6",
+        "2nd Appearance": "0.0",
+        "3rd Appearance": "0.0",
+        "4th Appearance": "0.0",
+        "5th Appearanace": "0.0",
+        "Total Appearances": 1
+    },
+    "Hextech Annie": {
+        "First Mythic Shop Appearance": "12.6",
+        "2nd Appearance": "0.0",
+        "3rd Appearance": "0.0",
+        "4th Appearance": "0.0",
+        "5th Appearanace": "0.0",
+        "Total Appearances": 1
+    },
+    "Hextech Amumu": {
+        "First Mythic Shop Appearance": "12.6",
+        "2nd Appearance": "0.0",
+        "3rd Appearance": "0.0",
+        "4th Appearance": "0.0",
+        "5th Appearanace": "0.0",
+        "Total Appearances": 1
+    },
+    "Prestige Arcanist Zoe": {
+        "First Mythic Shop Appearance": "12.6",
+        "2nd Appearance": "13.22",
+        "3rd Appearance": "0.0",
+        "4th Appearance": "0.0",
+        "5th Appearanace": "0.0",
+        "Total Appearances": 2
+    },
+    "Prestige Spirit Blossom Teemo": {
+        "First Mythic Shop Appearance": "12.6",
+        "2nd Appearance": "13.18",
+        "3rd Appearance": "0.0",
+        "4th Appearance": "0.0",
+        "5th Appearanace": "0.0",
+        "Total Appearances": 2
+    },
+    "Prestige Battle Queen Diana": {
+        "First Mythic Shop Appearance": "12.6",
+        "2nd Appearance": "13.18",
+        "3rd Appearance": "0.0",
+        "4th Appearance": "0.0",
+        "5th Appearanace": "0.0",
+        "Total Appearances": 2
+    },
+    "Prestige PROJECT: Irelia": {
+        "First Mythic Shop Appearance": "12.6",
+        "2nd Appearance": "13.24",
+        "3rd Appearance": "0.0",
+        "4th Appearance": "0.0",
+        "5th Appearanace": "0.0",
+        "Total Appearances": 2
+    },
+    "Prestige Pulsefire Thresh": {
+        "First Mythic Shop Appearance": "12.6",
+        "2nd Appearance": "0.0",
+        "3rd Appearance": "0.0",
+        "4th Appearance": "0.0",
+        "5th Appearanace": "0.0",
+        "Total Appearances": 1
+    },
+    "Prestige K/DA Kai'Sa": {
+        "First Mythic Shop Appearance": "12.6",
+        "2nd Appearance": "13.24",
+        "3rd Appearance": "0.0",
+        "4th Appearance": "0.0",
+        "5th Appearanace": "0.0",
+        "Total Appearances": 2
+    },
+    "Prestige Lunar Eclipse Senna": {
+        "First Mythic Shop Appearance": "12.8",
+        "2nd Appearance": "0.0",
+        "3rd Appearance": "0.0",
+        "4th Appearance": "0.0",
+        "5th Appearanace": "0.0",
+        "Total Appearances": 1
+    },
+    "Ashen Knight Pantheon": {
+        "First Mythic Shop Appearance": "12.12",
+        "2nd Appearance": "0.0",
+        "3rd Appearance": "0.0",
+        "4th Appearance": "0.0",
+        "5th Appearanace": "0.0",
+        "Total Appearances": 1
+    },
+    "Prestige K/DA Evelynn": {
+        "First Mythic Shop Appearance": "12.12",
+        "2nd Appearance": "13.22",
+        "3rd Appearance": "0.0",
+        "4th Appearance": "0.0",
+        "5th Appearanace": "0.0",
+        "Total Appearances": 2
+    },
+    "Prestige Pulsefire Lucian": {
+        "First Mythic Shop Appearance": "12.12",
+        "2nd Appearance": "13.18",
+        "3rd Appearance": "0.0",
+        "4th Appearance": "0.0",
+        "5th Appearanace": "0.0",
+        "Total Appearances": 2
+    },
+    "Hextech Ziggs": {
+        "First Mythic Shop Appearance": "12.12",
+        "2nd Appearance": "0.0",
+        "3rd Appearance": "0.0",
+        "4th Appearance": "0.0",
+        "5th Appearanace": "0.0",
+        "Total Appearances": 1
+    },
+    "Dreadnova Darius": {
+        "First Mythic Shop Appearance": "12.12",
+        "2nd Appearance": "0.0",
+        "3rd Appearance": "0.0",
+        "4th Appearance": "0.0",
+        "5th Appearanace": "0.0",
+        "Total Appearances": 1
+    },
+    "Prestige Blood Moon Aatrox": {
+        "First Mythic Shop Appearance": "12.14",
+        "2nd Appearance": "13.22",
+        "3rd Appearance": "0.0",
+        "4th Appearance": "0.0",
+        "5th Appearanace": "0.0",
+        "Total Appearances": 2
+    },
+    "Prestige Dark Star Malphite": {
+        "First Mythic Shop Appearance": "12.14",
+        "2nd Appearance": "13.20",
+        "3rd Appearance": "0.0",
+        "4th Appearance": "0.0",
+        "5th Appearanace": "0.0",
+        "Total Appearances": 2
+    },
+    "Prestige Battle Academia Lux": {
+        "First Mythic Shop Appearance": "12.16",
+        "2nd Appearance": "13.24",
+        "3rd Appearance": "0.0",
+        "4th Appearance": "0.0",
+        "5th Appearanace": "0.0",
+        "Total Appearances": 2
+    },
+    "Prestige PROJECT Zed": {
+        "First Mythic Shop Appearance": "12.16",
+        "2nd Appearance": "0.0",
+        "3rd Appearance": "0.0",
+        "4th Appearance": "0.0",
+        "5th Appearanace": "0.0",
+        "Total Appearances": 1
+    },
+    "Prestige Battle Academia Leona": {
+        "First Mythic Shop Appearance": "12.18",
+        "2nd Appearance": "0.0",
+        "3rd Appearance": "0.0",
+        "4th Appearance": "0.0",
+        "5th Appearanace": "0.0",
+        "Total Appearances": 1
+    },
+    "Prestige PsyOps Ezreal": {
+        "First Mythic Shop Appearance": "12.18",
+        "2nd Appearance": "0.0",
+        "3rd Appearance": "0.0",
+        "4th Appearance": "0.0",
+        "5th Appearanace": "0.0",
+        "Total Appearances": 1
+    },
+    "Hextech Poppy": {
+        "First Mythic Shop Appearance": "12.18",
+        "2nd Appearance": "0.0",
+        "3rd Appearance": "0.0",
+        "4th Appearance": "0.0",
+        "5th Appearanace": "0.0",
+        "Total Appearances": 1
+    },
+    "Soulstealer Vayne": {
+        "First Mythic Shop Appearance": "12.18",
+        "2nd Appearance": "13.21",
+        "3rd Appearance": "0.0",
+        "4th Appearance": "0.0",
+        "5th Appearanace": "0.0",
+        "Total Appearances": 2
+    },
+    "Ashen Slayer Sylas": {
+        "First Mythic Shop Appearance": "12.18",
+        "2nd Appearance": "0.0",
+        "3rd Appearance": "0.0",
+        "4th Appearance": "0.0",
+        "5th Appearanace": "0.0",
+        "Total Appearances": 1
+    },
+    "Prestige Bewitching Miss Fortune": {
+        "First Mythic Shop Appearance": "12.20",
+        "2nd Appearance": "0.0",
+        "3rd Appearance": "0.0",
+        "4th Appearance": "0.0",
+        "5th Appearanace": "0.0",
+        "Total Appearances": 1
+    },
+    "Prestige Coven LeBlanc": {
+        "First Mythic Shop Appearance": "12.20",
+        "2nd Appearance": "0.0",
+        "3rd Appearance": "0.0",
+        "4th Appearance": "0.0",
+        "5th Appearanace": "0.0",
+        "Total Appearances": 1
+    },
+    "Prestige Star Guardian Neeko": {
+        "First Mythic Shop Appearance": "12.22",
+        "2nd Appearance": "0.0",
+        "3rd Appearance": "0.0",
+        "4th Appearance": "0.0",
+        "5th Appearanace": "0.0",
+        "Total Appearances": 1
+    },
+    "Prestige Conqueror Jax": {
+        "First Mythic Shop Appearance": "12.22",
+        "2nd Appearance": "0.0",
+        "3rd Appearance": "0.0",
+        "4th Appearance": "0.0",
+        "5th Appearanace": "0.0",
+        "Total Appearances": 1
+    },
+    "Prestige Arcade Caitlyn": {
+        "First Mythic Shop Appearance": "12.23",
+        "2nd Appearance": "0.0",
+        "3rd Appearance": "0.0",
+        "4th Appearance": "0.0",
+        "5th Appearanace": "0.0",
+        "Total Appearances": 1
+    },
+    "Prestige PROJECT Sylas": {
+        "First Mythic Shop Appearance": "12.23",
+        "2nd Appearance": "0.0",
+        "3rd Appearance": "0.0",
+        "4th Appearance": "0.0",
+        "5th Appearanace": "0.0",
+        "Total Appearances": 1
+    },
+    "Hextech Rammus": {
+        "First Mythic Shop Appearance": "12.23",
+        "2nd Appearance": "0.0",
+        "3rd Appearance": "0.0",
+        "4th Appearance": "0.0",
+        "5th Appearanace": "0.0",
+        "Total Appearances": 1
+    },
+    "Hextech Kassadin": {
+        "First Mythic Shop Appearance": "12.23",
+        "2nd Appearance": "0.0",
+        "3rd Appearance": "0.0",
+        "4th Appearance": "0.0",
+        "5th Appearanace": "0.0",
+        "Total Appearances": 1
+    },
+    "Ashen Graveknight Mordekaiser": {
+        "First Mythic Shop Appearance": "12.23",
+        "2nd Appearance": "0.0",
+        "3rd Appearance": "0.0",
+        "4th Appearance": "0.0",
+        "5th Appearanace": "0.0",
+        "Total Appearances": 1
+    },
+    "Prestige Dragonmancer Volibear": {
+        "First Mythic Shop Appearance": "13.1",
+        "2nd Appearance": "0.0",
+        "3rd Appearance": "0.0",
+        "4th Appearance": "0.0",
+        "5th Appearanace": "0.0",
+        "Total Appearances": 1
+    },
+    "Prestige K/DA Ahri": {
+        "First Mythic Shop Appearance": "13.1",
+        "2nd Appearance": "0.0",
+        "3rd Appearance": "0.0",
+        "4th Appearance": "0.0",
+        "5th Appearanace": "0.0",
+        "Total Appearances": 1
+    },
+    "Prestige K/DA ALL OUT Kai\u2019Sa": {
+        "First Mythic Shop Appearance": "13.4",
+        "2nd Appearance": "0.0",
+        "3rd Appearance": "0.0",
+        "4th Appearance": "0.0",
+        "5th Appearanace": "0.0",
+        "Total Appearances": 1
+    },
+    "Prestige Coven Zyra": {
+        "First Mythic Shop Appearance": "13.4",
+        "2nd Appearance": "0.0",
+        "3rd Appearance": "0.0",
+        "4th Appearance": "0.0",
+        "5th Appearanace": "0.0",
+        "Total Appearances": 1
+    },
+    "Prestige Broken Covenant Miss Fortune": {
+        "First Mythic Shop Appearance": "13.5",
+        "2nd Appearance": "0.0",
+        "3rd Appearance": "0.0",
+        "4th Appearance": "0.0",
+        "5th Appearanace": "0.0",
+        "Total Appearances": 1
+    },
+    "Prestige Fuzz Fizz": {
+        "First Mythic Shop Appearance": "13.6",
+        "2nd Appearance": "0.0",
+        "3rd Appearance": "0.0",
+        "4th Appearance": "0.0",
+        "5th Appearanace": "0.0",
+        "Total Appearances": 1
+    },
+    "Prestige Ascended Pantheon": {
+        "First Mythic Shop Appearance": "13.6",
+        "2nd Appearance": "0.0",
+        "3rd Appearance": "0.0",
+        "4th Appearance": "0.0",
+        "5th Appearanace": "0.0",
+        "Total Appearances": 1
+    },
+    "Lancer Zero Hecarim": {
+        "First Mythic Shop Appearance": "13.6",
+        "2nd Appearance": "0.0",
+        "3rd Appearance": "0.0",
+        "4th Appearance": "0.0",
+        "5th Appearanace": "0.0",
+        "Total Appearances": 1
+    },
+    "Hextech Tristana": {
+        "First Mythic Shop Appearance": "13.6",
+        "2nd Appearance": "0.0",
+        "3rd Appearance": "0.0",
+        "4th Appearance": "0.0",
+        "5th Appearanace": "0.0",
+        "Total Appearances": 1
+    },
+    "Ashen Guardian Shen": {
+        "First Mythic Shop Appearance": "13.6",
+        "2nd Appearance": "0.0",
+        "3rd Appearance": "0.0",
+        "4th Appearance": "0.0",
+        "5th Appearanace": "0.0",
+        "Total Appearances": 1
+    },
+    "Prestige True Damage Senna": {
+        "First Mythic Shop Appearance": "13.6",
+        "2nd Appearance": "0.0",
+        "3rd Appearance": "0.0",
+        "4th Appearance": "0.0",
+        "5th Appearanace": "0.0",
+        "Total Appearances": 1
+    },
+    "Prestige Nightbringer Kayn": {
+        "First Mythic Shop Appearance": "13.8",
+        "2nd Appearance": "0.0",
+        "3rd Appearance": "0.0",
+        "4th Appearance": "0.0",
+        "5th Appearanace": "0.0",
+        "Total Appearances": 1
+    },
+    "Prestige Phoenixmancer Xayah": {
+        "First Mythic Shop Appearance": "13.10",
+        "2nd Appearance": "0.0",
+        "3rd Appearance": "0.0",
+        "4th Appearance": "0.0",
+        "5th Appearanace": "0.0",
+        "Total Appearances": 1
+    },
+    "Prestige Firecracker Vayne": {
+        "First Mythic Shop Appearance": "13.10",
+        "2nd Appearance": "0.0",
+        "3rd Appearance": "0.0",
+        "4th Appearance": "0.0",
+        "5th Appearanace": "0.0",
+        "Total Appearances": 1
+    },
+    "Prestige True Damage Qiyana": {
+        "First Mythic Shop Appearance": "13.12",
+        "2nd Appearance": "0.0",
+        "3rd Appearance": "0.0",
+        "4th Appearance": "0.0",
+        "5th Appearanace": "0.0",
+        "Total Appearances": 1
+    },
+    "Prestige Obsidian Dragon Sett": {
+        "First Mythic Shop Appearance": "13.12",
+        "2nd Appearance": "0.0",
+        "3rd Appearance": "0.0",
+        "4th Appearance": "0.0",
+        "5th Appearanace": "0.0",
+        "Total Appearances": 1
+    },
+    "Prestige Debonair Brand": {
+        "First Mythic Shop Appearance": "13.12",
+        "2nd Appearance": "0.0",
+        "3rd Appearance": "0.0",
+        "4th Appearance": "0.0",
+        "5th Appearanace": "0.0",
+        "Total Appearances": 1
+    },
+    "Prestige K/DA Akali": {
+        "First Mythic Shop Appearance": "13.12",
+        "2nd Appearance": "0.0",
+        "3rd Appearance": "0.0",
+        "4th Appearance": "0.0",
+        "5th Appearanace": "0.0",
+        "Total Appearances": 1
+    },
+    "Hextech Jarvan IV": {
+        "First Mythic Shop Appearance": "13.13",
+        "2nd Appearance": "0.0",
+        "3rd Appearance": "0.0",
+        "4th Appearance": "0.0",
+        "5th Appearanace": "0.0",
+        "Total Appearances": 1
+    },
+    "Hextech Sejuani": {
+        "First Mythic Shop Appearance": "13.12",
+        "2nd Appearance": "0.0",
+        "3rd Appearance": "0.0",
+        "4th Appearance": "0.0",
+        "5th Appearanace": "0.0",
+        "Total Appearances": 1
+    },
+    "Crystalis Motus Leona": {
+        "First Mythic Shop Appearance": "13.12",
+        "2nd Appearance": "0.0",
+        "3rd Appearance": "0.0",
+        "4th Appearance": "0.0",
+        "5th Appearanace": "0.0",
+        "Total Appearances": 1
+    },
+    "Prestige DRX Aatrox": {
+        "First Mythic Shop Appearance": "13.12",
+        "2nd Appearance": "0.0",
+        "3rd Appearance": "0.0",
+        "4th Appearance": "0.0",
+        "5th Appearanace": "0.0",
+        "Total Appearances": 1
+    },
+    "Prestige Valiant Sword Riven": {
+        "First Mythic Shop Appearance": "13.14",
+        "2nd Appearance": "0.0",
+        "3rd Appearance": "0.0",
+        "4th Appearance": "0.0",
+        "5th Appearanace": "0.0",
+        "Total Appearances": 1
+    },
+    "Prestige Lunar Beast Fiora": {
+        "First Mythic Shop Appearance": "13.14",
+        "2nd Appearance": "0.0",
+        "3rd Appearance": "0.0",
+        "4th Appearance": "0.0",
+        "5th Appearanace": "0.0",
+        "Total Appearances": 1
+    },
+    "Prestige Star Guardian Soraka": {
+        "First Mythic Shop Appearance": "13.14",
+        "2nd Appearance": "0.0",
+        "3rd Appearance": "0.0",
+        "4th Appearance": "0.0",
+        "5th Appearanace": "0.0",
+        "Total Appearances": 1
+    },
+    "Prestige Nightbringer Lee Sin": {
+        "First Mythic Shop Appearance": "13.14",
+        "2nd Appearance": "0.0",
+        "3rd Appearance": "0.0",
+        "4th Appearance": "0.0",
+        "5th Appearanace": "0.0",
+        "Total Appearances": 1
+    },
+    "Prestige Immortal Journey Sona": {
+        "First Mythic Shop Appearance": "13.16",
+        "2nd Appearance": "0.0",
+        "3rd Appearance": "0.0",
+        "4th Appearance": "0.0",
+        "5th Appearanace": "0.0",
+        "Total Appearances": 1
+    },
+    "Prestige Anima Squad Jinx": {
+        "First Mythic Shop Appearance": "13.16",
+        "2nd Appearance": "0.0",
+        "3rd Appearance": "0.0",
+        "4th Appearance": "0.0",
+        "5th Appearanace": "0.0",
+        "Total Appearances": 1
+    },
+    "Prestige True Damage Yasuo": {
+        "First Mythic Shop Appearance": "13.16",
+        "2nd Appearance": "0.0",
+        "3rd Appearance": "0.0",
+        "4th Appearance": "0.0",
+        "5th Appearanace": "0.0",
+        "Total Appearances": 1
+    },
+    "Prestige Mecha Kingdoms Garen": {
+        "First Mythic Shop Appearance": "13.16",
+        "2nd Appearance": "0.0",
+        "3rd Appearance": "0.0",
+        "4th Appearance": "0.0",
+        "5th Appearanace": "0.0",
+        "Total Appearances": 1
+    },
+    "Prestige High Noon Talon": {
+        "First Mythic Shop Appearance": "13.16",
+        "2nd Appearance": "0.0",
+        "3rd Appearance": "0.0",
+        "4th Appearance": "0.0",
+        "5th Appearanace": "0.0",
+        "Total Appearances": 1
+    },
+    "Prestige Star Guardian Ekko": {
+        "First Mythic Shop Appearance": "13.18",
+        "2nd Appearance": "0.0",
+        "3rd Appearance": "0.0",
+        "4th Appearance": "0.0",
+        "5th Appearanace": "0.0",
+        "Total Appearances": 1
+    },
+    "Hextech Kog\u2019Maw": {
+        "First Mythic Shop Appearance": "13.18",
+        "2nd Appearance": "0.0",
+        "3rd Appearance": "0.0",
+        "4th Appearance": "0.0",
+        "5th Appearanace": "0.0",
+        "Total Appearances": 1
+    },
+    "Hextech Swain": {
+        "First Mythic Shop Appearance": "13.18",
+        "2nd Appearance": "0.0",
+        "3rd Appearance": "0.0",
+        "4th Appearance": "0.0",
+        "5th Appearanace": "0.0",
+        "Total Appearances": 1
+    },
+    "Crystalis Motus Taliyah": {
+        "First Mythic Shop Appearance": "13.18",
+        "2nd Appearance": "0.0",
+        "3rd Appearance": "0.0",
+        "4th Appearance": "0.0",
+        "5th Appearanace": "0.0",
+        "Total Appearances": 1
+    },
+    "Prestige Star Guardian Syndra": {
+        "First Mythic Shop Appearance": "13.20",
+        "2nd Appearance": "0.0",
+        "3rd Appearance": "0.0",
+        "4th Appearance": "0.0",
+        "5th Appearanace": "0.0",
+        "Total Appearances": 1
+    },
+    "Prestige Ocean Song Seraphine": {
+        "First Mythic Shop Appearance": "13.20",
+        "2nd Appearance": "0.0",
+        "3rd Appearance": "0.0",
+        "4th Appearance": "0.0",
+        "5th Appearanace": "0.0",
+        "Total Appearances": 1
+    },
+    "Prestige Porcelain Lux": {
+        "First Mythic Shop Appearance": "13.20",
+        "2nd Appearance": "0.0",
+        "3rd Appearance": "0.0",
+        "4th Appearance": "0.0",
+        "5th Appearanace": "0.0",
+        "Total Appearances": 1
+    },
+    "Neo PAX Jax": {
+        "First Mythic Shop Appearance": "13.20",
+        "2nd Appearance": "0.0",
+        "3rd Appearance": "0.0",
+        "4th Appearance": "0.0",
+        "5th Appearanace": "0.0",
+        "Total Appearances": 1
+    },
+    "Prestige Cyber Halo Janna": {
+        "First Mythic Shop Appearance": "13.22",
+        "2nd Appearance": "0.0",
+        "3rd Appearance": "0.0",
+        "4th Appearance": "0.0",
+        "5th Appearanace": "0.0",
+        "Total Appearances": 1
+    },
+    "Prestige Spirit Blossom Master Yi": {
+        "First Mythic Shop Appearance": "13.24",
+        "2nd Appearance": "0.0",
+        "3rd Appearance": "0.0",
+        "4th Appearance": "0.0",
+        "5th Appearanace": "0.0",
+        "Total Appearances": 1
+    },
+    "Hextech Alistar": {
+        "First Mythic Shop Appearance": "13.24",
+        "2nd Appearance": "0.0",
+        "3rd Appearance": "0.0",
+        "4th Appearance": "0.0",
+        "5th Appearanace": "0.0",
+        "Total Appearances": 1
+    },
+    "Hextech Malzahar": {
+        "First Mythic Shop Appearance": "13.24",
+        "2nd Appearance": "0.0",
+        "3rd Appearance": "0.0",
+        "4th Appearance": "0.0",
+        "5th Appearanace": "0.0",
+        "Total Appearances": 1
+    },
+    "Crystalis Motis Ashe": {
+        "First Mythic Shop Appearance": "13.24",
+        "2nd Appearance": "0.0",
+        "3rd Appearance": "0.0",
+        "4th Appearance": "0.0",
+        "5th Appearanace": "0.0",
+        "Total Appearances": 1
+    }
+}

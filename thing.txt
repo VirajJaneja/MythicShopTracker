@@ -1,3 +1,14 @@
 will need to manually add: 
     patch 12.08
     patch 12.12
+
+
+bugs/things to work on:
+-check patch 12-19, it takes janna section since she got a vgu and prestige skin
+-get rid of emotes and icons and grab bags
+
+
+PLAN OF ACTION:
+make a json base file for season 12 (can be static process)
+make a json base file for season 12+13 (can be static process)
+make a new process for season 14 + 12 +13 based on existing format
