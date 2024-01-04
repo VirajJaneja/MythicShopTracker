@@ -1,5 +1,5 @@
 // Fetch JSON data from 'mainJSON.json'
-fetch('../mainJSON.json')
+fetch('mainJSON.json')
 // Fetch JSON data from 'mainJSON.json'
 .then(response => response.json())
 .then(jsonData => {
