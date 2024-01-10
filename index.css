@@ -19,6 +19,28 @@ body {
     line-height: 0.9;
 }
 
+.sideInfo{
+    max-width: 100%;
+    text-align: center;
+    letter-spacing: 2px;
+    font-size: 100%;
+    font-family: "Spiegel", "Arial Narrow", Arial, sans-serif;
+    margin: 7.14286% 7.14286% 3.57143%;
+    font-size: 0.875rem;
+    line-height: 1.6;
+    color: whitesmoke;
+    
+}
+
+.me {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    margin: 5px 0px;
+    font-size: 0.75rem;
+    color: rgb(134, 134, 134);
+}
+
 #chart{
     height: 100%;
 }
@@ -29,8 +51,15 @@ body {
     transform: translate(-50%, 0%);
     padding-bottom: 25%;
     border-width: 10px;
-    border-color: #242C36;
+    border-spacing: 10px; 
+    padding-bottom: 25%;
+    border-color: #242c36;
+    /* border: 1px solid #242c36; */
+    border-collapse: collapse; 
+}
 
+th, td {
+    padding: 2% 
 }
 
 
