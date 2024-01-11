@@ -2,6 +2,9 @@
 fetch('mainJSON.json')
     .then(response => response.json())
     .then(jsonData => {
+        fetch('patchDates.json')
+        .then(response => response.json())
+        .then(patchDatesJson => {
         const table = d3.select("#chart").append("table").style("border", "1px solid #242c36"); 
 
         const thead = table.append("thead");
@@ -29,8 +32,8 @@ fetch('mainJSON.json')
             .data(d => {
                 const title = d[0].toLowerCase().replace(/\s+/g, ' ');
                 const formattedTitle = title.charAt(0).toUpperCase() + title.slice(1);
-                const newDateValue = calculateDate(d); 
-                const updatedData = [formattedTitle, ...Object.values(d[1]).filter((value, index) => !excludedColumns.includes(Object.keys(d[1])[index])), calculateDate(d)].map(value => value === "0.0" ? "" : value);
+                const newDateValue = calculateDate(d, patchDatesJson); 
+                const updatedData = [formattedTitle, ...Object.values(d[1]).filter((value, index) => !excludedColumns.includes(Object.keys(d[1])[index])), newDateValue].map(value => value === "0.0" ? "" : value);
                 return updatedData;
             })
             .enter()
@@ -38,7 +41,7 @@ fetch('mainJSON.json')
             .text(d => d)
             .style("color", (d, i) => i === 0 ? "#D0A85C" : "white")
             .style("text-align", (d, i) => i === 0 ? "left" : "center");
-    })
+    })})
     .catch(error => console.error('Error fetching JSON:', error));
 
     // const div1Height = document.getElementById('chart').offsetHeight;
@@ -50,7 +53,7 @@ fetch('mainJSON.json')
     // document.getElementById('additionalDiv').style.height = tableHeight + 'px';
 
 
-async function calculateDate(data) {
+function calculateDate(data, jsonData) {
     const excludedColumns = ['4th Appearance', '5th Appearanace', 'Total Appearances'];
     const appearancesList = Object.entries(data[1]).filter(([key]) => !excludedColumns.includes(key)).map(([key, value]) => value);
 
@@ -60,9 +63,6 @@ async function calculateDate(data) {
 
     let resultDate = "ISNT WORKING";
 
-    try {
-        const response = await fetch('patchDates.json');
-        const jsonData = await response.json();
 
         const temp = patch + '';
         const matchingObject = jsonData.find(obj => obj.patch === temp);
@@ -83,8 +83,4 @@ async function calculateDate(data) {
         const updatedDateString = currentDate.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' });
 
         return updatedDateString;
-    } catch (error) {
-        console.error('Error fetching JSON:', error);
-        return "Failed Process";
-    }
 }
