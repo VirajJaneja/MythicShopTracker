@@ -55,13 +55,19 @@ body {
     padding-bottom: 25%;
     border-color: #242c36;
     /* border: 1px solid #242c36; */
-    border-collapse: collapse; 
+    border-collapse: collapse;
+    max-width: 100%;
+    max-height: 100%;
 }
 
 th, td {
     padding: 2% 
 }
 
+.table-container {
+    background-color: #fff;
+    position: relative;
+}
 
 .header {
     background-color: #333;
@@ -80,3 +86,26 @@ th, td {
     padding: 1rem;
     text-align: center;
 }
+
+#water-border {
+    width: 200px;
+    height: 200px;
+    position: relative;
+    overflow: hidden;
+  }
+  
+  #water-border::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: linear-gradient(to bottom, transparent 50%, white 50%);
+    background-size: 100% 200%; /* Initial gradient position */
+    transition: background-position 2s ease; /* Transition for background-position property */
+  }
+  
+  #water-border.active::before {
+    background-position: 0 100%; /* Move the gradient to simulate filling effect */
+  }
