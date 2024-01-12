@@ -29,7 +29,7 @@ body {
     font-size: 0.875rem;
     line-height: 1.6;
     color: whitesmoke;
-    
+    font-weight: bolder;
 }
 
 .me {
@@ -61,7 +61,7 @@ body {
 }
 
 th, td {
-    padding: 2% 
+    padding: 1.5% 
 }
 
 .table-container {
